@@ -1,1 +1,3 @@
 hello git status
+I am new to git.
+in this i am learning how to pull the code from the master branch, create new branch work on the feature branch and merge it into the master branch.
